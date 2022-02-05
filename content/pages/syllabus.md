@@ -49,16 +49,138 @@ You may interact with fellow students when preparing your homework solutions. Ho
 Calendar
 --------
 
-| LEC # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| 2 | Analytical Techniques (Guest: Joel Fried) | &nbsp; |
-| 3 | Basic Strategy | Case 1 Out |
-| 4 | Preflop Analysis |  {{< br >}}{{< br >}} Case 1 Due {{< br >}}{{< br >}} Case 2 Out  {{< br >}}{{< br >}}  |
-| 5 | Tournament Play |  {{< br >}}{{< br >}} Case 2 Due {{< br >}}{{< br >}} Case 3 Out {{< br >}}{{< br >}}  |
-| 6 | Poker Economics (Guest: Aaron Brown) |  {{< br >}}{{< br >}} Case 3 Due {{< br >}}{{< br >}}  |
-| 7 | Game Theory (Guest: Bill Chen) |  {{< br >}}{{< br >}}  |
-| 8 | Decision Making (Guest: Matt Hawrilenko) |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Analytical Techniques (Guest: Joel Fried)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Basic Strategy
+{{< tdclose >}}
+{{< tdopen >}}
+Case 1 Out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Preflop Analysis
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Case 1 Due
+
+Case 2 Out 
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Tournament Play
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Case 2 Due
+
+Case 3 Out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Poker Economics (Guest: Aaron Brown)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Case 3 Due
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Game Theory (Guest: Bill Chen)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Decision Making (Guest: Matt Hawrilenko)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 PokerStars Home League
 ----------------------
