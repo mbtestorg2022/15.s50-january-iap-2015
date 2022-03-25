@@ -69,7 +69,7 @@ TOPICS
 6
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Poker Economics (PDF - 2.6MB)]({{< baseurl >}}/resources/mit15_s50iap15_l6_pokerecon) (Courtesy of Aaron Brown. Used with permission.)
+[Poker Economics (PDF - 2.6MB)]({{< baseurl >}}/resources/mit15_s50iap15_l6_pokerecon) (Courtesy of Aaron Brown. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
