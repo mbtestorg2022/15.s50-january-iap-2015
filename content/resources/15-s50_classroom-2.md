@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 0fbc00e9-a326-77cb-1e20-d6e8cc81abb8
 resourcetype: Image
 title: 15-S50_classroom-2.jpg
 uid: 2febdd4d-db72-41ae-65a0-daafee8930aa
